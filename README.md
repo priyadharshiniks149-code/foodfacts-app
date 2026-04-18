@@ -19,3 +19,4 @@ If you are developing a production application, we recommend using TypeScript wi
 # foodfacts-app
 foodfacts
 >>>>>>> 9204766eed5dd010454ea2bee715212dcfc85054
+FoodFacts Part 1 completed.
